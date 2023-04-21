@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://kit.fontawesome.com/72eb49058d.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="resume-webpage">
+        <div class="bg-container">
+            <div class="profile-container d-flex ">
+                <div class="profile-card">
+                    <div class="img-card">
+                        <img class="img" src="https://cdn2.iconfinder.com/data/icons/avatar-50/48/31-512.png" />
+                    </div>
+                    <p class="container-name">PROFILE</p>
+                </div>
+                <div class="break-line d-flex">
+                    <div class="profile-text-card">
+                        <h1 class="main-heading-profile">CAROLINE THOMPSON</h1>
+                        <br />
+                        <p class="profile-para">ART DIRECTOR</p>
+                    </div>
+                    <div class="profile-address-card">
+                        <p class="address-para">Advertising campaigns are my forte <br />
+                            I have been in the industry for 6 years <br />
+                            Address: Los angeles, California<br />
+                            Phone: +(87) 834 2934 2344 <br />
+                            Website: carlinethompson.com
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="work-container d-flex">
+                <div class="work-card">
+                    <div class="img-card">
+                        <img class="img" src="https://icon-library.com/images/briefcase-icon-png/briefcase-icon-png-17.jpg" />
+                    </div>
+                    <p class="container-name">WORK</p>
+                </div>
+
+                <ul class="work-list">
+                    <li class="list-work-item d-flex">
+                        <p class="year">2022-2023</p>
+                        <p class="first-para"><span class="span-text">
+                                Creative Minds Graphic Design Studio Calfornia senoir art Director
+                            </span>
+                            <br />
+                            Generating and developing ideas to present to the client
+                        </p>
+                    </li>
+                    <li class="list-work-item d-flex">
+                        <p class="year">2021-2022</p>
+                        <p class="first-para"><span class="span-text">
+
+                                Mega Giants Publishing and Studio * junior Art Derictor
+                            </span>
+                            <br />
+                            Working on design to p[roduce an efficuent Advertising campaign
+                        </p>
+                    </li>
+                    <li class="list-work-item d-flex">
+                        <p class="year">2020-2021</p>
+                        <p class="first-para"><span class="span-text">
+                                Big ideas inc * Assistant Art Director
+                            </span>
+                            <br />
+                            commissinoning specifications such as artists to work on projects
+                        </p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="skills-container d-flex">
+                <div class="skills-card">
+                    <div class="img-card">
+                        <img class="bulb-img" src="https://cdn4.iconfinder.com/data/icons/business-2-7/512/clipboard-512.png" />
+                    </div>
+                    <p class="container-name">Skills & Awards</p>
+                </div>
+                <div class="break-line d-flex">
+                    <div class="skills-types-rating-container ">
+                        <ul class="skills-types">
+                            <li class="skill-type-item d-flex">
+                                <p class="item">UI/UX</p>
+                                <p class="dot-item">...</p>
+                            </li>
+                            <li class="skill-type-item">
+                                <p class="item">Growth Marketing</p>
+                                <p class="dot-item">.....</p>
+                            </li>
+                            <li class="skill-type-item">
+                                <p class="item">Typography</p>
+                                <p class="dot-item">..</p>
+                            </li>
+                            <li class="skill-type-item">
+                                <p class="item">Video Production</p>
+                                <p class="dot-item">...</p>
+                            </li>
+                            <li class="skill-type-item">
+                                <p class="item">Print Designer</p>
+                                <p class="dot-item">.....</p>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="awrads-container">
+
+
+                        <ul class="skills-list">
+                            <li class="list-skill-item d-flex">
+                                <p class="award-year">2019</p>
+                                <p class="award-para"><span class="span-text">
+                                        Suiton Design Awards
+                                    </span>
+                                    <br />
+                                    10 Graphic Designer
+                                </p>
+                            </li>
+                            <li class="list-skill-item d-flex">
+                                <p class="award-year">2019</p>
+                                <p class="award-para"><span class="span-text">
+
+                                        Graphic London Award
+                                    </span>
+                                    <br />
+                                    Winning Entry .Poster Design
+                                </p>
+                            </li>
+                            <li class="list-skill-item d-flex">
+                                <p class="award-year">2019</p>
+                                <p class="award-para"><span class="span-text">
+                                        LA Creative Award
+                                    </span>
+                                    <br />
+                                    Winning entry Ad Campaign
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="interest-container d-flex">
+                <div class="interset-card">
+                    <div class="img-card">
+                        <img class="bulb-img" src="https://www.stevensaerospace.com/wp-content/uploads/2021/02/tech-e1620930560846.png" />
+
+                    </div>
+                    <p class="container-name">INTERESTS</p>
+                </div>
+                <ul class="interest-lists-container">
+                    <li class="each-interest">
+                        <div class="icon-card">
+                            <i class=" fa-sharp fa-solid fa-tv"></i>
+                        </div>
+                        <p class="para-interest">Internet</p>
+                    </li>
+                    <li class="each-interest">
+                        <div class="icon-card">
+                            <i class=" fa-solid fa-pencil"></i>
+                        </div>
+                        <p class="para-interest">Sketching</p>
+                    </li>
+                    <li class="each-interest">
+                        <div class="icon-card">
+                            <i class=" fa-solid fa-laptop"></i>
+                        </div>
+                        <p class="para-interest">Movies</p>
+                    </li>
+                    <li class="each-interest">
+                        <div class="icon-card">
+                            <i class=" fa-solid fa-microphone-lines"></i>
+                        </div>
+                        <p class="para-interest">Music</p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="education-container d-flex">
+                <div class="education-card">
+                    <div class="img-card">
+                        <img class="book-img" src="https://cdn1.iconfinder.com/data/icons/iconza-1/24/Note-512.png" />
+
+                    </div>
+                    <p class="container-name">Education</p>
+                </div>
+                <ul class="education-lists">
+                    <li class="list-education-item d-flex">
+                        <p class="year">2016-2020</p>
+                        <p class="first-para"><span class="span-text">
+                                Alabama College of Design and Technology * Cum Laude
+                            </span>
+                            <br />
+                            Bachelor of fine arts Major in Advertising
+                        </p>
+                    </li>
+                    <li class="list-education-item d-flex">
+                        <p class="year">2013-2016</p>
+                        <p class="first-para"><span class="span-text">
+
+                                Heleno All Girls Senior High School * Valedictorian
+                            </span>
+                            <br />
+                            President of Art And Design Club
+                        </p>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

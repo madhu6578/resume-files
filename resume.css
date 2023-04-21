@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.book-img {
+    width: 40px;
+    height: 40px;
+
+}
+
+.bulb-img {
+    width: 40px;
+    height: 40px;
+
+}
+
+.brifcase-img {
+    width: 40px;
+    height: 40px
+}
+
+.bulb-img {
+    width: 40px;
+    height: 40px
+}
+
+.resume-webpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    background-size: cover;
+    height: auto;
+}
+
+.bg-container {
+
+
+
+    background-color: #ff9999;
+    background-size: cover;
+    color: #1F246D;
+    font-weight: 300;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.break-line {
+    width: 500px;
+    padding-right: 20px;
+    border-bottom: solid 3.5px #1F246D;
+
+}
+
+.main-heading-profile {
+    color: #1F246D;
+    width: 90px;
+    font-size: 30px;
+}
+
+.line {
+    width: 550px;
+    margin-top: -0px;
+    border: solid 2px #1F246D;
+
+}
+
+.img-card {
+    border: solid 3.5px #1F246D;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 35px;
+}
+
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.profile-text-card {
+    width: 220px;
+    padding-left: 30px;
+    margin-right: 10px;
+
+    border-right: solid 4px #1F246D;
+}
+
+.profile-para {
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: -24px;
+    font-family: "Roboto";
+}
+
+.profile-address-card {
+    padding-left: 20px;
+    font-size: 12px;
+
+}
+
+.work-list {
+    border-bottom: solid 3.5px #1F246D;
+    width: 500px;
+}
+
+.work-container {
+    padding-right: 20px;
+    padding-top: 15px;
+    width: 700px;
+}
+
+.work-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.skills-types-rating-container {
+    width: 240px;
+    height: 200px;
+    border-right: solid 4px #1F246D;
+    padding-right: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    margin-top: -19px;
+}
+
+.skill-type-item {
+    display: flex;
+}
+
+.year {
+    width: 80px;
+    padding-top: 2px;
+}
+
+.item {
+    width: 100px;
+}
+
+.skills-container {
+    width: 600px;
+    height: 180px;
+
+}
+
+.work-list {
+    padding-left: 30px;
+}
+
+.skills-list {
+    padding-left: 30px;
+    width: 250px;
+}
+
+.skills-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.interset-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.span-text {
+    font-weight: bold;
+}
+
+.dot-img {
+    width: 35px;
+    height: 35px;
+
+}
+
+.interest-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.dot-item {
+    height: 25px;
+    width: 80px;
+    font-size: 65px;
+    margin-top: -60px;
+}
+
+.interest-lists-container {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    border-bottom: solid 3.5px #1F246D;
+
+}
+
+.icon {
+    font-size: 30px;
+    color: #ff9999;
+    padding: 15px;
+    border-radius: 45px;
+    background-color: #1F246D;
+}
+
+.icon-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+    width: 65px;
+    font-size: 26px;
+    color: #FA9272;
+
+    border-radius: 45px;
+    background-color: #1F246D;
+
+
+
+
+}
+
+.each-interest {
+    width: 100px;
+    margin-left: 0px;
+}
+
+.para-interest {
+    padding-left: 12px;
+}
+
+.awards-container {
+    width: 300px;
+}
+
+.award-year {
+    margin-right: 25px;
+    padding-top: 2px;
+}
+
+.award-para {
+    width: 170px;
+}
+
+.education-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
